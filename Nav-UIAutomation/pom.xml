@@ -14,7 +14,7 @@
 		<!-- Dependency versions -->
 		<selenium.version>3.141.59</selenium.version>
 		<testng.version>6.14.3</testng.version>
-		<poi.version>4.0.1</poi.version>
+		<poi.version>4.1.1</poi.version>
 		<poi-ooxml.version>4.0.1</poi-ooxml.version>
 		<mail.version>1.4.7</mail.version>
 		<log4j.version>1.2.17</log4j.version>
