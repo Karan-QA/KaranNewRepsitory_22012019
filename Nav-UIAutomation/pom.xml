@@ -21,7 +21,7 @@
 		<extentreports.version>3.1.5</extentreports.version>
 		<xmlbeans.version>3.0.2</xmlbeans.version>
 		<common-lang.version>2.2</common-lang.version>
-		<json.version>20180130</json.version>
+		<json.version>20230227</json.version>
 		<!-- Plugin versions -->
 		<maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
 		<maven-failsafe-plugin.version>3.0.0-M3</maven-failsafe-plugin.version>
